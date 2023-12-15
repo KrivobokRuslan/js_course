@@ -2,6 +2,6 @@
 let a = 10 ; 
 if (a == 10) { 
     alert ('correctly');
-}else {
-    alert ( 'no correctly' );
+} else {
+    alert ('no correctly');
 }
